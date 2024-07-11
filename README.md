@@ -1,16 +1,10 @@
-# gcell
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PatchNet, an innovative mobile application, addresses the challenge of low
+internet connectivity by empowering users to discover nearby locations with
+superior network performance, organised by cellular service providers. Unlike
+traditional solutions, PatchNet doesn't aim to entirely resolve network issues but
+instead focuses on providing users with real-time insights into areas with
+enhanced internet connectivity by providing the details of the top 5 nearest
+locations with better internet connectivity. This unique approach allows users to
+make informed decisions about their internet usage based on proximity and
+connectivity quality, ensuring an optimised digital experience and personalised
+insights for each user.
