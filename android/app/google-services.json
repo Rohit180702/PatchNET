@@ -1,0 +1,29 @@
+    {
+      "project_info": {
+        "project_number": "914895207296",
+        "project_id": "patchnet-b35d6",
+        "storage_bucket": "patchnet-b35d6.appspot.com"
+      },
+      "client": [
+        {
+          "client_info": {
+            "mobilesdk_app_id": "1:914895207296:android:bcb3ce413e2ed92cce5f65",
+            "android_client_info": {
+              "package_name": "com.example.gcell"
+            }
+          },
+          "oauth_client": [],
+          "api_key": [
+            {
+              "current_key": "AIzaSyCBW0ZDNS0K3W4hBFUP5kyUTTPK5Zw2rcU"
+            }
+          ],
+          "services": {
+            "appinvite_service": {
+              "other_platform_oauth_client": []
+            }
+          }
+        }
+      ],
+      "configuration_version": "1"
+    }
